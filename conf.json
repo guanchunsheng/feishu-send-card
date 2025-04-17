@@ -1,0 +1,6 @@
+{
+    "webhook":"https://open.feishu.cn/open-apis/bot/v2/hook/xxxx-xxxx-xxxx-xxxx",
+    "secret":"SZogBdDxForxxxxxxxxx",
+    "cardid":"AAqxxxxxxx",
+    "version":"1.0.0"
+}
